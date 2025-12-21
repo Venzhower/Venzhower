@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**Venzhower/Venzhower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Venz, an aspiring full-stack developer based in the Philippines.
 
-Here are some ideas to get you started:
+I'm currently taking the "Foundations" course in The Odin Project, and I look to specialize towards the "Full Stack Javascript" course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tools & Tech
+
+- HTML, CSS, JavaScript
+- Figma
+
+---
+
+### A Bit About Me
+
+- 💻 I like building things that are useful, easy to understand, and aesthetically pleasing.
+- 🎵 Into music (rap) — Kendrick Lamar is a favorite
+- 🎥 Into movies — 2001: A Space Odyssey is a favorite
