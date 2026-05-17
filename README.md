@@ -16,5 +16,4 @@ I'm currently taking the "Foundations" course in The Odin Project, and I look to
 ### A Bit About Me
 
 - 💻 I like building things that are useful, easy to understand, and aesthetically pleasing.
-- 🎵 Into music (rap) — Kendrick Lamar is a favorite
 - 🎥 Into movies — 2001: A Space Odyssey is a favorite
