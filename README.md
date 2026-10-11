@@ -1,4 +1,4 @@
-## Hello there 👋
+## Hello there! 👋
 
 I'm Venz, an aspiring full-stack developer based in the Philippines.
 
@@ -8,12 +8,12 @@ I'm currently taking the "Foundations" course in The Odin Project, and I look to
 
 ### Tools & Tech
 
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Python, C
 - Figma
 
 ---
 
 ### A Bit About Me
 
-- 💻 I like building things that are useful, easy to understand, and aesthetically pleasing.
-- 🎥 Into movies — 2001: A Space Odyssey is a favorite
+- 💻 I like building things that are fast, practical, and easy to use.
+- 🎮 Into games — Minecraft is an all-time favorite.
